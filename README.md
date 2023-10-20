@@ -1,6 +1,8 @@
 ## FedCADO
 
-This repository is the implementation of FedCADO (Classifier-Assisted Diffusion for One-shot Federated learning method). #Our paper will be released soon.
+This repository is the implementation of FedCADO (Classifier-Assisted Diffusion for One-shot Federated learning method). 
+
+## Our paper will be released soon.
 
 ![img](img/framework.png)
 
