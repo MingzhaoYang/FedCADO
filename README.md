@@ -1,6 +1,6 @@
 ## FedCADO
 
-This repository is the implementation of FedCADO (Classifier-Assisted Diffusion for One-shot Federated learning method). Our paper will be released soon.
+This repository is the implementation of FedCADO (Classifier-Assisted Diffusion for One-shot Federated learning method). # Our paper will be released soon.
 
 ![img](img/framework.png)
 
@@ -29,9 +29,5 @@ With the vast knowledge within the pre-trained diffusion models, it becomes poss
 
 
 	bash aggregate.sh
-
-## Pre-trained Diffusion Model
-
-The pre-trained diffusion model primarily used in our method is [Stable Diffusion v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5/tree/main).
 
 
