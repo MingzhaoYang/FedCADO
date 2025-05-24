@@ -1,4 +1,4 @@
-#FedLMG
+# FedLMG
 
 The pytorch implementation of FedLMG: One-Shot Heterogeneous Federated Learning with Local Model-Guided Diffusion Models. 
 
