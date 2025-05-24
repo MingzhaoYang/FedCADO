@@ -3,7 +3,7 @@
 This repository is the implementation of FedLMG. 
 
 
-![img](img/framework.png)
+![img](img/FedLMG_framework.png)
 
 
 ## Requirements
